@@ -10,6 +10,7 @@ import UIKit
 
 class memolistCell: UITableViewCell{
     
-    @IBOutlet weak var memolabel: UILabel!
+    @IBOutlet weak var momecontent: UILabel!
+    @IBOutlet weak var memodate: UILabel!
     
 }
